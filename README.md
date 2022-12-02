@@ -4,7 +4,7 @@
 👀 I’m interested in B2B / E-Commerce / SAAS projects, Business processes and concepts in the internet, and everything about LARAVEL
  
 
-🌱 I’m currently building my Laravel Academy. You can have a look here: https://laravel-academy.com 
+🌱 I’m currently building my Laravel Academy. You can have a look here: https://laravelacademy.com 
 
 At [LaravelAcademy.com](https://laravelacademy.com) there is also a newsletter you can subscribe to, where you can get discount offers for all my Laravel courses.
  
