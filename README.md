@@ -6,7 +6,7 @@
 
 🌱 I’m currently building my Laravel Academy. You can have a look here: http://laravelacademy.com 
 
-At [LaravelAcademy.com](https://laravelacademy.com) there is also a newsletter you can subscribe to, where you can get discount offers for all my Laravel courses.
+At [LaravelAcademy.com](http://laravelacademy.com) there is also a newsletter you can subscribe to, where you can get discount offers for all my Laravel courses.
  
 💞️ I LOVE to teach Laravel and I LOVE to help people building their apps.
  
